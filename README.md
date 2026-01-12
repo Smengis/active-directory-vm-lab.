@@ -1,5 +1,3 @@
-# active-directory-vm-lab.
-This project documents my processs of deploying and configuring Active Directory Domain Services (AD DS) in a Windows Server virtual environment.
 # active-directory-vm-lab
 
 This project documents my hands-on experience deploying and configuring **Active Directory Domain Services (AD DS)** within a **Windows Server virtual machine environment hosted on AWS**.
